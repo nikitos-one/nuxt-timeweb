@@ -71,11 +71,5 @@ export default {
         implementation: require('sass'),
       },
     },
-  },
-
-  // Deploy on GitGub Pages
-  mode: 'spa',
-  router: {
-    base: 'nuxt-timeweb'
-  },
+  }
 }
