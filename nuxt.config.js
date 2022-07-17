@@ -74,7 +74,7 @@ export default {
   },
 
   // Deploy on GitGub Pages
-  target: 'static',
+  mode: 'spa',
   router: {
     base: 'nuxt-timeweb'
   },
